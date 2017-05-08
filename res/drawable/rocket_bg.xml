@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--动画列表可以包含很多图片-->
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+   <!--第一张图片，显示时长-->
+   <item android:drawable="@drawable/desktop_rocket_launch_1"
+       android:duration="200"/>
+   <!--第二张图片，显示时长-->
+   <item android:drawable="@drawable/desktop_rocket_launch_2"
+       android:duration="200"/> 
+</animation-list>
